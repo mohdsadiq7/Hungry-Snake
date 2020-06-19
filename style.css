@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700');
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+body
+{
+	background-color:black;
+	background-image: url('img/back.png');
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: cover;
+
+}
+
+h1
+{
+	background:white;
+	padding:10px;
+}
+
+h3
+{
+	color: black;
+	font-family: Asap, sans-serif;
+	padding:5px;
+	margin-left: 10px;
+}
