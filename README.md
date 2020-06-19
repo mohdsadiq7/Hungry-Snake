@@ -13,5 +13,4 @@ Used Vanilla JS for building the logic of the game
 ![](img/img1.png)
 
 Scores will be updated along the game.
-
-*Play and Have fun :) 
+Play and Have fun :)
